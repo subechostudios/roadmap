@@ -1,0 +1,5 @@
+# Roadmap
+Feature ideas for readinglist
+
+Version ???
+- ???
